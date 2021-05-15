@@ -1603,10 +1603,10 @@ eslint-module-utils@^2.3.0:
     debug "^2.6.8"
     pkg-dir "^2.0.0"
 
-eslint-plugin-cup@^2.0.0:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-cup/-/eslint-plugin-cup-2.0.1.tgz#dab2827e722404fb590209321538c82226e2c08d"
-  integrity sha512-mQiZ6Wd/LWnSDQ/jhJb7t92MeWBW2x9T1F8QJttIDKvW/1Moedor3tbSMPGu+hhT8m8OL+egvBy6/sslcnQsqw==
+eslint-plugin-cup@2.0.3:
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-cup/-/eslint-plugin-cup-2.0.3.tgz#016676c7efb9e5e61b29354ad457f239015c2132"
+  integrity sha512-7E30HMVW89Szwyauyof8L3+lP8zOC/sbhopPF4bOTOlwOpfWvI7Xv7KQr6y9s3J1FO0CqJIWsUruwPs/ppnq1g==
   dependencies:
     globals "^11.5.0"
 
